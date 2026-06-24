@@ -1,0 +1,4 @@
+../Core/Src/mqtt_task.c:24:6:MqttClientSubTask	24	static
+../Core/Src/mqtt_task.c:68:6:MqttClientPubTask	40	static
+../Core/Src/mqtt_task.c:87:5:MqttConnectBroker	120	static
+../Core/Src/mqtt_task.c:155:6:MqttMessageArrived	24	static
